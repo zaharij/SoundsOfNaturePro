@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SoundsOfNature</string>
+    <string name="game_name_version">"SOUNDS OF NATURE 1.0"</string>
+    <string name="right_message">"Right!"</string>
+    <string name="excellent_message">"Excellent!"</string>
+    <string name="brilleant_message">"Brilliant!"</string>
+    <string name="empty_string"></string>
+    <string name="win_message">"You win!"</string>
+    <string name="ok_message">Ok</string>
+    <string name="not_right_message">No, I am\u0020</string>
+</resources>

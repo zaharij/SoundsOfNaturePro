@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="game_name_version_color">#FFD700</color>
+    <color name="splash_screen_backgr_color">#556B2F</color>
+    <color name="main_screen_backgr_color">#556B2F</color>
+    <color name="listening_screen_bg_color">#E0FFFF</color>
+    <color name="tabs_listening_bg_color">#AFEEEE</color>
+    <color name="back_btn_color">#5F9EA0</color>
+</resources>
